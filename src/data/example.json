@@ -1,8 +1,12 @@
 {
-    "kty": "RSA",
-    "e": "AQAB",
-    "use": "sig",
-    "kid": "my-openid-token-signature",
-    "alg": "RS256",
-    "n": "gS1XdQcSy5la6VB8cHGnC--BTa8oOO29BeascYD-lpwh1WPhEvCTEoQq6j1zgd4ekvXH9W2lzz29GiLmsyHgQ_lAOknIgmaGXWRhX1AXZ3XmjCg9rimochsCjqUG9Mf4GoAZTQFn1eqWPbdf19w-gm5mOBYGRjFaAv-UsuF0bw3nJBqxs4ygu_0Ev78-c48cyIYYCrKyXz8UxMzvkUkdKsHYj1lqPtTj0AarPcn3AQDnuHafREwckQQ0lbW9GWqrpkOjKYVmeLHsRsC5ADv1x-IC_hOcDuMeQ8XP8n5_orOgN-TK0Q-guOc-0Y53BPv8QT1tB0NVfqF70biTCx1FlQ"
+  "keys": [
+	{
+	  "kty": "RSA",
+	  "e": "AQAB",
+	  "use": "sig",
+	  "kid": "my-openid-token-signature",
+	  "alg": "RS256",
+	  "n": "gS1XdQcSy5la6VB8cHGnC--BTa8oOO29BeascYD-lpwh1WPhEvCTEoQq6j1zgd4ekvXH9W2lzz29GiLmsyHgQ_lAOknIgmaGXWRhX1AXZ3XmjCg9rimochsCjqUG9Mf4GoAZTQFn1eqWPbdf19w-gm5mOBYGRjFaAv-UsuF0bw3nJBqxs4ygu_0Ev78-c48cyIYYCrKyXz8UxMzvkUkdKsHYj1lqPtTj0AarPcn3AQDnuHafREwckQQ0lbW9GWqrpkOjKYVmeLHsRsC5ADv1x-IC_hOcDuMeQ8XP8n5_orOgN-TK0Q-guOc-0Y53BPv8QT1tB0NVfqF70biTCx1FlQ"
+	}
+  ]
 }
