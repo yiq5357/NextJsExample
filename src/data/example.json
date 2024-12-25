@@ -4,8 +4,9 @@
 	    "kty": "RSA",
 	    "e": "AQAB",
 	    "use": "sig",
+	    "kid": "my-openid-token-signature",
 	    "alg": "RS512",
-	    "n": "hlBdi2MStJY3B-6F6Abr9TDMgsyDyedPI1ufDMyO3mpbTdKxKu7n8z74e3pgpiUIITotrGPFU8aim_Hd6i_C6lzrKKy1Dkjic8lfgnKH615hCVC_VCyR5UlvD5t7W3Uxymg8FZGj2FIJ3urJ3vxKLiFteQ8aNRGuWLvSrWuRpFw6aP37J-ryb542UX66B4gYkXEZNy5sADTXMX5_5JYMWJwj6aeHRzZGdPtYpMcPWYeXoDXwGV1z0MltHf5XxNnPOYuCgswJ4i4IzkAd5zpGYBR8AofawnAE56tE5tg8CfMJfVtYQAcf20iLI-mu5xj7Wmkimo3WyOmGrEaRBK6RHw"
+	    "n": "pm2mtU815g5VRIVvHiju7lJmhtbSkE8E0e9BHdUXim-rPPmaxqOEigEhWu_SGhk7FGYXkhvR6lqxZjHDPY4XZWtnL_ULoNRg2s9_BdWdnVS6pkplubcjEOoBlLZJ2hFp0PzIHlDzs11ItjDhWaEWFceY9AIADAiZ-93TkOWAIqNHMTAajbTBqUjrUuZz0HmxlvUScEYWc0nk5P1dOAZg7AfJCewovMwoEvp7yRJg_iH-pnljzt0qc3wg9NzRjeM_U0061Zo1g6JwEB02pvoMyehhfd8SGz_hABJesKSmIY_vrFJdbmOkntcjz379wrs7iogLPizC5LRNpt96hjZIIw"
 	}
   ]
 }
