@@ -1,10 +1,18 @@
 {
   "keys": [
 	{
+	  "kty": "RSA",
+	  "e": "AQAB",
+	  "use": "sig",
+	  "kid": "my-openid-token-signatureRS256",
+	  "alg": "RS256",
+	  "n": "gS1XdQcSy5la6VB8cHGnC--BTa8oOO29BeascYD-lpwh1WPhEvCTEoQq6j1zgd4ekvXH9W2lzz29GiLmsyHgQ_lAOknIgmaGXWRhX1AXZ3XmjCg9rimochsCjqUG9Mf4GoAZTQFn1eqWPbdf19w-gm5mOBYGRjFaAv-UsuF0bw3nJBqxs4ygu_0Ev78-c48cyIYYCrKyXz8UxMzvkUkdKsHYj1lqPtTj0AarPcn3AQDnuHafREwckQQ0lbW9GWqrpkOjKYVmeLHsRsC5ADv1x-IC_hOcDuMeQ8XP8n5_orOgN-TK0Q-guOc-0Y53BPv8QT1tB0NVfqF70biTCx1FlQ"
+	},	  
+	{
 	    "kty": "RSA",
 	    "e": "AQAB",
 	    "use": "sig",
-	    "kid": "my-openid-token-signature",
+	    "kid": "my-openid-token-signatureRS512",
 	    "alg": "RS512",
 	    "n": "pm2mtU815g5VRIVvHiju7lJmhtbSkE8E0e9BHdUXim-rPPmaxqOEigEhWu_SGhk7FGYXkhvR6lqxZjHDPY4XZWtnL_ULoNRg2s9_BdWdnVS6pkplubcjEOoBlLZJ2hFp0PzIHlDzs11ItjDhWaEWFceY9AIADAiZ-93TkOWAIqNHMTAajbTBqUjrUuZz0HmxlvUScEYWc0nk5P1dOAZg7AfJCewovMwoEvp7yRJg_iH-pnljzt0qc3wg9NzRjeM_U0061Zo1g6JwEB02pvoMyehhfd8SGz_hABJesKSmIY_vrFJdbmOkntcjz379wrs7iogLPizC5LRNpt96hjZIIw"
 	}
